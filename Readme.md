@@ -14,7 +14,8 @@
 
 ## Installation
 
-Clone this project into `node_modules/cas` and then run `npm install` inside it.
+<!-- Clone this project into `node_modules/cas` and then run `npm install` inside it. -->
+npm install cas-client2
 
 ## Usage
 
