@@ -26,5 +26,8 @@
   "scripts": {
     "test": "make test"
   },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "main": "index"
 }
